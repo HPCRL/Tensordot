@@ -6,7 +6,7 @@ Code generator for tensor contraction
 
 
 
-##how to use
+## how to use
 
 For full search
 
